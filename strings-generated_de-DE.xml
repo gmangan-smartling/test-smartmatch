@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="accept_privacy_policy_button">Genau</string>
+    <string name="accept_privacy_policy_check_box_information">Ich habe die AGB gelesen und bin damit einverstanden</string>
+    <string name="accept_privacy_policy_title">Datenschutzerklärung &amp; Nutzungsbedingungen</string>
+    <string name="account">Konto</string>
+    <string name="account_created_check_email_message_change_email_address_small_button">E-Mail Adresse ändern</string>
+    <string name="account_created_check_email_message_resend_confirmation_big_button">Bestätigung erneut senden</string>
+    <string name="account_created_check_email_message_text">Fast fertig. Wir haben Ihnen eine Bestätigungs-E-Mail gesendet. Klicken Sie auf den Link in der E-Mail, um Ihre Registrierung abzuschließen.</string>
+    <string name="account_created_check_email_message_title">Gehen Sie zu Ihrem Posteingang</string>
+    <string name="account_invite_friends">Freunde einladen</string>
+    <string name="account_settings">Account Einstellungen</string>
+    <string name="account_type">Konto Typ</string>
+    <string name="account_updated_autorenewing">Sie abonnieren jetzt Lifesum Premium. Ihr Abonnement verlängert sich um %1$s . Weitere Informationen zu Ihrem Abonnement finden Sie in den Einstellungen.</string>
+    <string name="account_updated_valid_date">Ihr Konto wurde aktualisiert und ist bis %1$s gültig. Anschließend müssen Sie es erneut verlängern. \n\n Besuchen Sie Lifesum.com, um mehr zu erfahren.</string>
+    <string name="activity_level">Aktivitätslevel</string>
+    <string name="activity_level_high_desc">Die meiste Zeit zu Fuß, dh Verkäufer, Koch, Krankenschwester</string>
+    <string name="activity_level_low">Wenn Sie einen inaktiven Lebensstil haben (Lesen, Fernsehen usw.)</string>
+    <string name="activity_level_low_desc">Meistens sitzen zB Schreibtischjob, Designer.</string>
+    <string name="activity_level_moderate">Wenn Sie einen Lebensstil mit mäßiger Aktivität haben (Gartenarbeit, Golf usw.) 
+</string>
+    <string name="activity_level_normal_desc">Gelegentlich sitzen zB Lehrer.</string>
+</resources>

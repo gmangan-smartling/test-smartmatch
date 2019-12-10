@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="accept_privacy_policy_button">je suis d\'accord</string>
+    <string name="accept_privacy_policy_check_box_information">J\'ai lu et j\'accepte les termes et conditions</string>
+    <string name="accept_privacy_policy_title">Politique de confidentialité &amp; Conditions d\'utilisation</string>
+    <string name="account">Compte</string>
+    <string name="account_created_check_email_message_change_email_address_small_button">Changer l\'adresse email</string>
+    <string name="account_created_check_email_message_resend_confirmation_big_button">Renvoyer la confirmation</string>
+    <string name="account_created_check_email_message_text">Presque fini. Nous vous avons envoyé un e-mail de vérification. Cliquez sur le lien dans l\'e-mail pour terminer votre inscription.</string>
+    <string name="account_created_check_email_message_title">Dirigez-vous vers votre boîte de réception</string>
+    <string name="account_invite_friends">Inviter des amis</string>
+    <string name="account_settings">Paramètres du compte</string>
+    <string name="account_type">Type de compte</string>
+    <string name="account_updated_autorenewing">Vous êtes maintenant abonné à Lifesum Premium. Votre abonnement sera renouvelé %1$s . Trouvez plus d\'informations sur votre abonnement dans les paramètres.</string>
+    <string name="account_updated_valid_date">Votre compte a été mis à jour et sera valide jusqu\'à %1$s , vous devez alors le renouveler à nouveau. \n\n Visitez Lifesum.com pour en savoir plus.</string>
+    <string name="activity_level">Niveau d\'activité</string>
+    <string name="activity_level_high_desc">Marcher la plupart du temps, c.-à-d. Vendeur, chef, infirmière</string>
+    <string name="activity_level_low">Si vous avez un style de vie inactif (lecture, télévision, etc.)</string>
+    <string name="activity_level_low_desc">Surtout assis, c.-à-d. Travail de bureau, designer.</string>
+    <string name="activity_level_moderate">Si vous avez un style de vie avec une activité modérée (jardinage, golf, etc.) 
+</string>
+    <string name="activity_level_normal_desc">Assis occasionnellement, c.-à-d. Enseignant.</string>
+</resources>
