@@ -20,4 +20,5 @@
     <string name="activity_level_moderate">Wenn Sie einen Lebensstil mit mäßiger Aktivität haben (Gartenarbeit, Golf usw.) 
 </string>
     <string name="activity_level_normal_desc">Gelegentlich sitzen zB Lehrer.</string>
+        <string name="activity_level_normal_newthing">Überprüfen Sie, was passiert.</string>
 </resources>
