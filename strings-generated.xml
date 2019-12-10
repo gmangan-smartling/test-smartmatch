@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="accept_privacy_policy_button">I agree</string>
+    <string name="accept_privacy_policy_check_box_information">I have read and agree to the terms and conditions</string>
+    <string name="accept_privacy_policy_title">Privacy policy &amp; Terms of service</string>
+    <string name="account">Account</string>
+    <string name="account_created_check_email_message_change_email_address_small_button">Change email address</string>
+    <string name="account_created_check_email_message_resend_confirmation_big_button">Resend Confirmation</string>
+    <string name="account_created_check_email_message_text">Almost done. We sent you a verification email. Click the link in the email to complete your registration.</string>
+    <string name="account_created_check_email_message_title">Head to your inbox</string>
+    <string name="account_invite_friends">Invite friends</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="account_type">Account Type</string>
+    <string name="account_updated_autorenewing">You are now subscribing to Lifesum Premium. Your subscription will renew %s. Find more information about your subscription in settings.</string>
+    <string name="account_updated_valid_date">Your account has been updated and will be valid until %s, you then need to renew it again.\n\nVisit Lifesum.com to learn more.</string>
+    <string name="activity_level">Activity Level</string>
+    <string name="activity_level_high_desc">Walking most of the time i.e. salesperson, chef, nurse</string>
+    <string name="activity_level_low">If you have an inactive lifestyle (reading, TV etc.)</string>
+    <string name="activity_level_low_desc">Mostly sitting down i.e. desk job, designer.</string>
+    <string name="activity_level_moderate">If you have a lifestyle with moderate activity (gardening, golf, etc.) 
+</string>
+    <string name="activity_level_normal_desc">Occasionally sitting i.e. teacher.</string>
+</resources>
