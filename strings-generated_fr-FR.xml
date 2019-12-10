@@ -20,4 +20,5 @@
     <string name="activity_level_moderate">Si vous avez un style de vie avec une activité modérée (jardinage, golf, etc.) 
 </string>
     <string name="activity_level_normal_desc">Assis occasionnellement, c.-à-d. Enseignant.</string>
+        <string name="activity_level_normal_newthing">Vérifiez ce qui se passe.</string>
 </resources>
