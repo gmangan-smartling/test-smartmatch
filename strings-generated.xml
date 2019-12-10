@@ -20,4 +20,5 @@
     <string name="activity_level_moderate">If you have a lifestyle with moderate activity (gardening, golf, etc.) 
 </string>
     <string name="activity_level_normal_desc">Occasionally sitting i.e. teacher.</string>
+        <string name="activity_level_normal_newthing">Check what happens.</string>
 </resources>
